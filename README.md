@@ -11,11 +11,8 @@ A clean and modern iOS weather application built with Swift and UIKit.
 
 ## Tech Stack
 - Swift / UIKit / Storyboard
-- OpenWeatherMap API *(coming soon)*
-- MVC Architecture
 
-## Screenshots
-*Coming soon*
+
 
 ## Requirements
 - iOS 16+
